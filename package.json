@@ -18,6 +18,6 @@
       "watch": "npm-watch"
     },
     "watch": {
-      "build": "src/"
+      "build": "src/horus_template_2.html"
     }
   }
